@@ -2,10 +2,10 @@
 <widget id="de.canonip.bitcoinrumble" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>BTC Rumble</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+		Outputs current Change in BTC-USD rate on TECO Haptic Display (via BLE)
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="uueba@student.kit.edu" href="https://github.com/Canonip/Bitcoin-Rumble">
+        Andreas Mai
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
